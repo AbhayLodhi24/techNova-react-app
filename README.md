@@ -5,4 +5,4 @@ Deploy Link :- https://technova-react-b4zrhr2ng-abhaylodhi24.vercel.app/
 
 # Screenshots
 ## Home 
-![Home Page](https://github.com/AbhayLodhi24/techNova-react-app/blob/main/SS/Home.png)
+![Home Page](main/SS/Home.png)
